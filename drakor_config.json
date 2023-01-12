@@ -1,0 +1,19 @@
+{
+    "ADS": [
+        {
+            "select_main_ads": "APPLOVIN-M",
+            "select_backup_ads": "",
+            "initialize_sdk": "F2yaGLyH3oXmPdgi5wsmWT4R92xNNsQ0KNVBWoBQMO13pVo256is0rvHcemhbnGl5v7ph4wi1hc6I4Ee4AyGO5",
+            "initialize_sdk_backup": "",
+            "main_ads_banner": "06f8619c8ec9258c",
+            "backup_ads_banner": "",
+            "main_ads_interstitial": "26288422bb52084b",
+            "backup_ads_interstitial": "",
+            "interstitial_counter": "10",
+            "maintenance": "0",
+            "status_app": "0",
+            "link_redirect": "https://play.google.com/store/apps/details?id=com.corndevils.kissasian"
+        }
+    ]
+}
+
