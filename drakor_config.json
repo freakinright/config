@@ -14,7 +14,8 @@
             "status_app": "1",
             "link_redirect": "https://play.google.com/store/apps/details?id=com.corndevils.kissasian",
             "facebook": "https://www.facebook.com/",
-            "instagram": "https://www.instagram.com/"
+            "instagram": "https://www.instagram.com/",
+            "other_app": "https://play.google.com/store/apps/details?id=com.corndevils.kissasian"
         }
     ]
 }
