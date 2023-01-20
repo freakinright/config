@@ -11,7 +11,11 @@
             "backup_ads_interstitial": "",
             "interstitial_counter": "10",
             "maintenance": "0",
+<<<<<<< HEAD
+            "status_app": "1",
+=======
             "status_app": "0",
+>>>>>>> 04f2bc85a7aa84e592526f8a24e5801587098e68
             "link_redirect": "https://play.google.com/store/apps/details?id=com.corndevils.kissasian",
             "facebook": "https://www.facebook.com/",
             "instagram": "https://www.instagram.com/"
