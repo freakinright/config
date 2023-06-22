@@ -1,0 +1,21 @@
+{
+    "ADS": [
+        {
+            "select_main_ads": "APPLOVIN-M",
+            "select_backup_ads": "",
+            "initialize_sdk": "bdt5z6zNZ-89ZT-5IpD1TGJRxthfTMK-cFq7b5SgETStSTyH1v5zwqAOxW9WJgEDbfk9q-r-vhkHxabL0TEzeM",
+            "initialize_sdk_backup": "",
+            "main_ads_banner": "52c8c19ddb3e7912",
+            "backup_ads_banner": "",
+            "main_ads_interstitial": "621f880f27282c4c",
+            "backup_ads_interstitial": "",
+            "interstitial_counter": "10",
+            "maintenance": "0",
+            "status_app": "0",
+            "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.dramako",
+            "facebook": "https://www.facebook.com/profile.php?id=100090252105765",
+            "instagram": "https://www.instagram.com/dramako_asian/reels/",
+            "other_app": "https://play.google.com/store/apps/details?id=com.app.promoteapp"
+        }
+    ]
+}
