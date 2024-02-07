@@ -1,0 +1,26 @@
+{
+    "ADS": [
+        {
+            "select_main_ads": "APPLOVIN",
+            "select_backup_ads": "",
+            "initialize_sdk": "",
+            "initialize_sdk_backup": "",
+            "main_ads_banner": "",
+            "backup_ads_banner": "",
+            "main_ads_interstitial": "",
+            "backup_ads_interstitial": "",
+            "rewarded_ad_id": "",
+            "backup_rewarded_ad_id": "",
+            "interstitial_counter": "10",
+            "maintenance": "0",
+            "status_app": "0",
+            "link_redirect": "https://play.google.com/store/apps/details?id=com.sportsix.animewave",
+            "facebook": "https://www.facebook.com/profile.php?id=100090252105765",
+            "instagram": "https://www.instagram.com/dramako_asian/reels/",
+            "other_app": "https://play.google.com/store/apps/details?id=com.sportsix.animewave",
+            "base_url": "https://readm.today/",
+            "current_version": "1.0.0",
+            "blogger_url": "https://mangaasuka.blogspot.com/"
+        }
+    ]
+}
