@@ -20,7 +20,8 @@
             "other_app": "https://play.google.com/store/apps/details?id=com.sportsix.animewave",
             "base_url": "https://readm.today/",
             "current_version": "1.0.0",
-            "blogger_url": "https://mangaasuka.blogspot.com/"
+            "blogger_url": "https://mangaasuka.blogspot.com/",
+            "disquss_url": "https://asukamanga.disqus.com/"
         }
     ]
 }
