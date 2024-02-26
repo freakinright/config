@@ -10,13 +10,13 @@
             "main_ads_interstitial": "a58ab086f0147d41",
             "backup_ads_interstitial": "",
             "interstitial_counter": "10",
-            "maintenance": "1",
-            "status_app": "0",
+            "maintenance": "0",
+            "status_app": "1",
             "link_redirect": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
             "facebook": "https://www.facebook.com/IRWANNASIR1969",
             "instagram": "https://www.instagram.com/dramako_asian/reels/",
             "other_app": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
-            "current_version": "1.0.0"
+            "current_version": "1.0.2"
             ,"base_url": "https://kissasian.si"
         }
     ]
