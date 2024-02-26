@@ -1,22 +1,24 @@
 {
-  "ADS": [
-    {
-      "select_main_ads": "ADMANAGER",
-      "select_backup_ads": "",
-      "initialize_sdk": "ca-app-pub-2186101008500724~8047235118",
-      "initialize_sdk_backup": "",
-      "main_ads_banner": "/160553881,23079588823/com.flawlessx.dramaflix/banner",
-      "backup_ads_banner": "",
-      "main_ads_interstitial": "/160553881,23079588823/com.flawlessx.dramaflix/interstitial",
-      "backup_ads_interstitial": "",
-      "interstitial_counter": "10",
-      "maintenance": "0",
-      "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.kdrama.streamingapp",
-      "base_url": "https://www1.watchasian.id",
-      "current_version": "1.0.3",
-      "blogger_url": "https://dramaflixv1.blogspot.com/",
-      "open_app_ads": "/160553881,23079588823/com.flawlessx.dramaflix/open_app"
-    }
-  ]
+    "ADS": [
+        {
+            "select_main_ads": "ADMANAGER",
+            "select_backup_ads": "",
+            "initialize_sdk": "ca-app-pub-2186101008500724~8047235118",
+            "initialize_sdk_backup": "",
+            "main_ads_banner": "/160553881,23079588823/com.flawlessx.dramaflix/banner",
+            "backup_ads_banner": "",
+            "main_ads_interstitial": "/160553881,23079588823/com.flawlessx.dramaflix/interstitial",
+            "backup_ads_interstitial": "",
+            "interstitial_counter": "10",
+            "maintenance": "0",
+            "status_app": "0",
+            "link_redirect": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
+            "facebook": "https://www.facebook.com/profile.php?id=61555540900018",
+            "instagram": "https://www.instagram.com/dramako_asian/reels/",
+            "other_app": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
+            "current_version": “1.0.3”,
+	"base_url": "https://www1.watchasian.id”,
+	 "open_app_ads": "/160553881,23079588823/com.flawlessx.dramaflix/open_app"
+        }
+    ]
 }
