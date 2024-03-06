@@ -1,23 +1,24 @@
 {
-    "ADS": [
-        {
-            "select_main_ads": "ADMANAGER",
-            "select_backup_ads": "",
-            "initialize_sdk": "ca-app-pub-2186101008500724~5910862642",
-            "initialize_sdk_backup": "",
-            "main_ads_banner": "/160553881,23079588823/apps.goasian.dramas/banner",
-            "backup_ads_banner": "",
-            "main_ads_interstitial": "/160553881,23079588823/apps.goasian.dramas/interstitial",
-            "backup_ads_interstitial": "",
-            "interstitial_counter": "10",
-            "maintenance": "0",
-            "status_app": "0",
-            "link_redirect": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
-            "facebook": "https://www.facebook.com/DramaAsianKdrama",
-            "instagram": "https://www.instagram.com/dramako_asian/reels/",
-            "other_app": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
-            "current_version": "1.0.2"
-            ,"base_url": "https://kissasian.si"
-        }
-    ]
+  "ADS": [
+    {
+      "select_main_ads": "ADMANAGER",
+      "select_backup_ads": "",
+      "initialize_sdk": "ca-app-pub-2186101008500724~5910862642",
+      "initialize_sdk_backup": "",
+      "main_ads_banner": "/160553881,23079588823/apps.goasian.dramas/banner",
+      "backup_ads_banner": "",
+      "main_ads_interstitial": "/160553881,23079588823/apps.goasian.dramas/interstitial",
+      "backup_ads_interstitial": "",
+      "interstitial_counter": "10",
+      "maintenance": "0",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
+      "facebook": "https://www.facebook.com/DramaAsianKdrama",
+      "instagram": "https://www.instagram.com/dramako_asian/reels/",
+      "other_app": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
+      "current_version": "1.0.2",
+      "base_url": "https://kissasian.si",
+      "open_app_ads": "/160553881,23079588823/apps.goasian.dramas/openapp"
+    }
+  ]
 }
