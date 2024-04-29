@@ -11,12 +11,12 @@
       "backup_ads_interstitial": "",
       "interstitial_counter": "10",
       "maintenance": "0",
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.drama.play",
       "facebook": "https://www.facebook.com/DramaAsianKdrama",
       "instagram": "https://www.instagram.com/dramako_asian/reels/",
       "other_app": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
-      "current_version": "1.0.2",
+      "current_version": "1.0.6",
       "base_url": "https://kissasian.si",
       "open_app_ads": "/160553881,23079588823/apps.goasian.dramas/openapp"
         }
