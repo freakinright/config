@@ -1,0 +1,25 @@
+{
+    "ADS": [
+        {
+            "select_main_ads": "APPLOVIN",
+            "select_backup_ads": "",
+            "initialize_sdk": "1ddb90e05",
+            "initialize_sdk_backup": "",
+            "main_ads_banner": "19410583",
+            "backup_ads_banner": "",
+            "main_ads_interstitial": "19410581",
+            "backup_ads_interstitial": "",
+            "rewarded_ad_id": "",
+            "interstitial_counter": "10",
+            "maintenance": "0",
+            "status_app": "1",
+            "link_redirect": "https://play.google.com/store/apps/details?id=com.flawlessx.anime_ukeruu&pli=1",
+            "facebook": "",
+            "instagram": "",
+            "other_app": "",
+            "base_url": "https://gogoanime3.co/",
+            "current_version": "1.0.5",
+            "blogger_url": "https://animeukeruu.blogspot.com/"
+        }
+    ]
+}
