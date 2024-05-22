@@ -9,8 +9,8 @@
             "backup_ads_banner": "",
             "main_ads_interstitial": "/6499/example/interstitial",
             "backup_ads_interstitial": "",
-            "main_ads_rewarded": "/6499/example/interstitial",
-            "backup_ads_rewarded": "/6499/example/rewarded",
+            "main_ads_rewarded": "/6499/example/rewarded",
+            "backup_ads_rewarded": "",
             "interstitial_counter": "10",
             "maintenance": "0",
             "status_app": "0",
@@ -20,7 +20,7 @@
             "other_app": "",
             "base_url": "https://anitaku.so/",
             "current_version": "1.0.0",
-            "blogger_url": "/6499/example/interstitial"
+            "blogger_url": "https://aruminime.blogspot.com/"
         }
     ]
 }
