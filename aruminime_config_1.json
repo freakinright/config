@@ -1,25 +1,26 @@
 {
     "ADS": [
         {
-            "select_main_ads": "APPLOVIN",
+            "select_main_ads": "ADMANAGER",
             "select_backup_ads": "",
             "initialize_sdk": "1ddb90e05",
             "initialize_sdk_backup": "",
-            "main_ads_banner": "19410583",
+            "main_ads_banner": "/6499/example/banner",
             "backup_ads_banner": "",
-            "main_ads_interstitial": "19410581",
+            "main_ads_interstitial": "/6499/example/interstitial",
             "backup_ads_interstitial": "",
-            "rewarded_ad_id": "",
+            "main_ads_rewarded": "/6499/example/interstitial",
+            "backup_ads_rewarded": "/6499/example/rewarded",
             "interstitial_counter": "10",
             "maintenance": "0",
-            "status_app": "1",
-            "link_redirect": "https://play.google.com/store/apps/details?id=com.flawlessx.anime_ukeruu&pli=1",
+            "status_app": "0",
+            "link_redirect": "",
             "facebook": "",
             "instagram": "",
             "other_app": "",
-            "base_url": "https://gogoanime3.co/",
-            "current_version": "1.0.5",
-            "blogger_url": "https://animeukeruu.blogspot.com/"
+            "base_url": "https://anitaku.so/",
+            "current_version": "1.0.0",
+            "blogger_url": "/6499/example/interstitial"
         }
     ]
 }
