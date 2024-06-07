@@ -20,7 +20,15 @@
             "other_app": "",
             "base_url": "https://anitaku.so/home.html",
             "current_version": "1.0.0",
-            "blogger_url": "https://aruminime.blogspot.com/"
+            "blogger_url": "https://aruminime.blogspot.com/",
+            "message" : {
+                "show": "0",
+                "type": "error",
+                "title": "Notification",
+                "description": "Aruminime is currently experiencing server issues. We are conducting maintenance to address the problem.",
+                "redirected_url": "",
+                "use_redirect_action": "0"
+            }
         }
     ]
 }
