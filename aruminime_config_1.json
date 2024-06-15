@@ -28,8 +28,8 @@
                 "type": "error",
                 "title": "Notification",
                 "description": "Aruminime is currently experiencing server issues. We are conducting maintenance to address the problem.",
-                "redirected_url": "",
-                "use_redirect_action": "0"
+                "redirected_url": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
+                "use_redirect_action": "1"
             }
         }
     ]
