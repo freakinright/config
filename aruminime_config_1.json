@@ -24,7 +24,7 @@
             "current_version": "1.0.0",
             "blogger_url": "https://aruminime.blogspot.com/",
             "message" : {
-                "show": "0",
+                "show": "1",
                 "type": "error",
                 "title": "Notification",
                 "description": "Aruminime is currently experiencing server issues. We are conducting maintenance to address the problem.",
