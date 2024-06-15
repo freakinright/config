@@ -21,15 +21,15 @@
             "instagram": "",
             "other_app": "",
             "base_url": "https://anitaku.so/home.html",
-            "current_version": "1.0.0",
+            "current_version": "1.1.0",
             "blogger_url": "https://aruminime.blogspot.com/",
             "message" : {
-                "show": "1",
+                "show": "0",
                 "type": "error",
                 "title": "Notification",
                 "description": "Aruminime is currently experiencing server issues. We are conducting maintenance to address the problem.",
-                "redirected_url": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
-                "use_redirect_action": "1"
+                "redirected_url": "",
+                "use_redirect_action": "0"
             }
         }
     ]
