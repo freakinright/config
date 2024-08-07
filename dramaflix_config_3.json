@@ -2,7 +2,7 @@
     "ADS": [
         {
             "select_main_ads": "APPLOVIN",
-            "select_backup_ads": "",
+            "select_backup_ads": "ADMANAGER",
             "initialize_sdk": "X8O6FyOMsWfoiliX1lBk6Lz_kRCNx6RGIDTUfBuH98qJVfmbIMUXXPHSpbe4dlhVkEn9mAi93AwfliUeU1xgQi",
             "initialize_sdk_backup": "",
             "main_ads_banner": "84062dc411aa24bb",
