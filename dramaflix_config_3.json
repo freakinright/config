@@ -14,7 +14,7 @@
             "backup_ads_rewarded": "/21775744923/example/rewarded",
             "main_open_app_ads": "",
             "backup_open_app_ads": "/160553881,23079588823/apps.flawlessx.dramaflix/openapp",
-            "maintenance": "1",
+            "maintenance": "0",
             "status_app": "0",
             "link_redirect": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
             "facebook": "https://www.facebook.com/profile.php?id=61555540900018",
@@ -27,8 +27,8 @@
                   "type": "error",
                   "title": "Notification",
                   "description": "hello dramaflix lovers..New updates and new features: 1. Download. 2. Connect to TV. 3. Auto setting and manual resolution setting. 4. Minimize the screen. 5. Bug fixes. ATTENTION!! For those who download, make sure you watch the ad until the end so that the download can run. Thank you for all the support. Follow us on the profile settings page Click Facebook",
-                  "redirected_url": "",
-                  "use_redirect_action": "0"
+                  "redirected_url": "https://www.facebook.com/profile.php?id=61555540900018",
+                  "use_redirect_action": "1"
             }
         }
     ]
