@@ -25,7 +25,7 @@
             "blogger_url": "https://animeko-v1.blogspot.com/",
             "timer_inters_type": "1",
             "timer_inters_counter": "4",
-            "show_inters_first_open_episode": true
+            "show_inters_first_open_episode": false
         }
     ]
 }
