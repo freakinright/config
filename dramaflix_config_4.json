@@ -1,6 +1,4 @@
 {
-    "ADS": [
-        {
             "select_main_ads": "APPLOVIN",
             "select_backup_ads": "ADMANAGER",
             "initialize_sdk": "X8O6FyOMsWfoiliX1lBk6Lz_kRCNx6RGIDTUfBuH98qJVfmbIMUXXPHSpbe4dlhVkEn9mAi93AwfliUeU1xgQi",
@@ -22,6 +20,9 @@
             "other_app": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
             "current_version": "1.0.0",
       	    "base_url": "https://projectdrama.org/api",
+            "timer_inters_type": "0",
+            "timer_inters_counter": "3",
+            "show_inters_first_open_episode": true
             "message" : {
                   "show": "1",
                   "type": "success",
@@ -31,5 +32,3 @@
                   "use_redirect_action": "1"
             }
         }
-    ]
-}
