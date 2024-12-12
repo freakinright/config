@@ -19,7 +19,7 @@
   "instagram": "https://www.instagram.com/dramako_asian/reels/",
   "other_app": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
   "current_version": "1.0.9",
-  "base_url": "https://projectdrama.org/api",
+  "base_url": "",
   "timer_inters_type": "0",
   "timer_inters_counter": "3",
   "show_inters_first_open_episode": false,
