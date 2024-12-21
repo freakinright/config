@@ -1,1 +1,27 @@
-{"select_main_ads":"APPLOVIN","select_backup_ads":null,"initialize_sdk":"bdt5z6zNZ-89ZT-5IpD1TGJRxthfTMK-cFq7b5SgETStSTyH1v5zwqAOxW9WJgEDbfk9q-r-vhkHxabL0TEzeM","initialize_sdk_backup":null,"main_ads_banner":"38e0fe938992fec9","backup_ads_banner":null,"main_ads_interstitial":"69ee17e95b323d4b","backup_ads_interstitial":null,"interstitial_counter":"10","main_ads_rewarded":"689f3ad80797a045","backup_ads_rewarded":null,"main_ads_open_app":null,"backup_ads_open_app":null,"maintenance":"0","status_app":"0","link_redirect":"https://play.google.com/store/games","facebook":"https://www.facebook.com/MangaAnime88","discord":"https://discord.gg/46wpd8D8","other_app":"https://anime.komik.top","base_url":"https://gogonime.org/api/v1","current_version":"1.0.0","blogger_url":"https://animeko-v1.blogspot.com/","timer_inters_type":"1","timer_inters_counter":"20","show_inters_first_open_episode":false}
+{
+  "select_main_ads": "APPLOVIN",
+  "select_backup_ads": null,
+  "initialize_sdk": "bdt5z6zNZ-89ZT-5IpD1TGJRxthfTMK-cFq7b5SgETStSTyH1v5zwqAOxW9WJgEDbfk9q-r-vhkHxabL0TEzeM",
+  "initialize_sdk_backup": null,
+  "main_ads_banner": "38e0fe938992fec9",
+  "backup_ads_banner": null,
+  "main_ads_interstitial": "69ee17e95b323d4b",
+  "backup_ads_interstitial": null,
+  "interstitial_counter": "10",
+  "main_ads_rewarded": "689f3ad80797a045",
+  "backup_ads_rewarded": null,
+  "main_ads_open_app": null,
+  "backup_ads_open_app": null,
+  "maintenance": "0",
+  "status_app": "0",
+  "link_redirect": "https://play.google.com/store/games",
+  "facebook": "https://www.facebook.com/MangaAnime88",
+  "discord": "https://discord.gg/46wpd8D8",
+  "other_app": "https://anime.komik.top",
+  "base_url": "https://gogonime.org/api/v1",
+  "current_version": "1.0.0",
+  "blogger_url": "https://animeko-v1.blogspot.com/",
+  "timer_inters_type": "1",
+  "timer_inters_counter": "20",
+  "show_inters_first_open_episode": false
+}
