@@ -21,7 +21,7 @@
   "current_version": "1.0.9",
   "base_url": "https://projectdrama.org/api",
   "timer_inters_type": "0",
-  "timer_inters_counter": "3",
+  "timer_inters_counter": "10",
   "show_inters_first_open_episode": false,
   "message": {
     "show": "1",
