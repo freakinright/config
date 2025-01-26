@@ -25,7 +25,7 @@
   "show_inters_first_open_episode": true,
   "show_rating_after_minutes": "5",
   "backup_url": "https://api.erzanime.com/api/v1",
-  "use_backup_url_version": "1.0.0",
+  "use_backup_url_version": "1.1.1",
   "message": {
     "show": "1",
     "type": "success",
