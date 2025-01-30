@@ -12,7 +12,7 @@
   "backup_ads_rewarded": "6fcbd3b392a58ff6",
   "main_open_app_ads": "",
   "backup_open_app_ads": "059c39682c4416c7",
-  "maintenance": "0",
+  "maintenance": "1",
   "status_app": "0",
   "link_redirect": "",
   "facebook": "",
@@ -25,7 +25,7 @@
   "show_inters_first_open_episode": true,
   "show_rating_after_minutes": "20",
   "backup_url": "https://dummy.projectdrama.org/api",
-  "use_backup_url_version": "1.0.1",
+  "use_backup_url_version": "1.1.1",
   "message": {
     "show": "1",
     "type": "success",
