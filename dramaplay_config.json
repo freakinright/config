@@ -19,7 +19,7 @@
   "instagram": "",
   "other_app": "",
   "current_version": "1.0.3",
-  "base_url": "https://projectdrama.org/api",
+  "base_url": "https://dummy.projectdrama.org/api",
   "timer_inters_type": "1",
   "timer_inters_counter": "30",
   "show_inters_first_open_episode": false,
